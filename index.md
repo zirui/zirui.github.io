@@ -1,22 +1,17 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+#hello word
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+A place to write down my thoughts about cs and life
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+作为一个coder，写文章也要从 hello word 开始 :)
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at https://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+从春节开始武汉爆发疫情，被困老家将近三个月。 到后来病毒传遍欧洲、北美。 疫情在改变这个世界, 改变每个人的工作、生活方式。
+在这样的一个世界不停变化的时代，个人应该做些什么才能适应这个变化的时代，变得更好呢？
+2020注定是个不平凡的一年，个人的生命很渺小也很珍贵,
+不止不觉已经半年过去,我觉得是该静下心来写点东西了, 做些改变了。
+希望自己更好，这个世界也更好!
+
+
+@ 2020-07-01
