@@ -2,8 +2,6 @@
 
 # hello word
 
-A place to write down my thoughts about cs and life
-
 
 作为一个coder，写文章也要从 hello word 开始 :)
 
