@@ -3,6 +3,7 @@ description: A place to write down my thoughts about cs and life
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-hacker
+markdown: kramdown
 
 gems:
   - jekyll-mentions
