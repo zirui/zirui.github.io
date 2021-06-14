@@ -15,3 +15,17 @@
 
 
 @ 2020-07-01
+
+
+# how are you?
+
+@ 2021-06-06
+
+
+# dl
+* activate function
+* backpropagation
+* loss function 
+* opitimizers
+  * sgd
+  * adm
