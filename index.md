@@ -6,11 +6,13 @@ Aim for long.
 # About Me
 I’m currently a researcher at 01.ai working on large language modeling. 
 I graduated from Chinese Academy of Sciences.
-Although I've mostly worked on natural language processing, I’m interested in a wide range of topics, including computer vision, rl, optimization
+Although I've mostly worked on natural language processing, I’m interested in a wide range of topics, including computer vision, rl, optimization.
 
 
-* Email: zirui.dream@gmail.com 
-* huggingface: https://huggingface.co/zirui3 
+
+Email: zirui.dream@gmail.com 
+
+huggingface: https://huggingface.co/zirui3 
 
 
 # hello word
