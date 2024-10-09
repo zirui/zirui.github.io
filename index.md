@@ -1,7 +1,7 @@
 
 
 ```
-aim for long.
+Aim for long.
 ```
 
 # hello word
@@ -21,7 +21,6 @@ aim for long.
 @ 2020-07-01
 
 
-# how are you?
 
 @ 2021-06-06
 
@@ -61,7 +60,6 @@ aim for long.
 
 
 # TODO
-
 - [ ] vit
 - [ ] seq2seq
 - [ ] T5
