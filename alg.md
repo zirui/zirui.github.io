@@ -1,4 +1,0 @@
-
-
-
-[backtracking](./backtracking.md)

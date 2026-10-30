@@ -1,0 +1,22 @@
+# Local and editor files
+.DS_Store
+.mcp.jsonl
+*.bak
+*.code-workspace
+.env*
+__pycache__/
+node_modules/
+
+# Private notes and application materials
+/*.md
+/*.MD
+!/index.md
+!/README.md
+*.pdf
+
+# Local experiments and assets
+/*.png
+/images/
+/package.json
+/server.js
+/test.py
