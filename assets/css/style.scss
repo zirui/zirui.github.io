@@ -6,3 +6,13 @@
 header {
   display: none;
 }
+
+#main_content ul {
+  padding-left: 1.25rem;
+}
+
+#main_content ul li {
+  list-style-image: none;
+  list-style-type: disc;
+  margin-bottom: 0.35rem;
+}
